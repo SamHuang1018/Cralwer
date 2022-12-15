@@ -1,8 +1,8 @@
 # Cralwer
 
-**Every crawlers need to adjust parameters according to the news pages and notice the source code whether render or not
+Every crawlers need to adjust parameters according to the news pages and notice the source code whether render or not
 
-**If use the package of Newspaper3k, some article maybe received garbled messages.
+If use the package of Newspaper3k, some article maybe received garbled messages.
 
 Newspaper3k: Article scraping & curation
 ========================================
