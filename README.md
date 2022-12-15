@@ -36,7 +36,7 @@ Newspaper uses a lot of `python-goose's`_ parsing code. View their license `here
 Please feel free to `email & contact me`_ if you run into issues or just would like
 to talk about the future of this library and news extraction in general!
 
-.. _`Lucas Ou-Yang`: http://codelucas.com
+ _`Lucas Ou-Yang`: http://codelucas.com
 .. _`email & contact me`: mailto:lucasyangpersonal@gmail.com
 .. _`python-goose's`: https://github.com/grangier/python-goose
 .. _`here`: https://github.com/codelucas/newspaper/blob/master/GOOSE-LICENSE.txt
